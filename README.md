@@ -53,6 +53,8 @@ END
 
 ```
 **OUTPUT:**
+<img width="1918" height="1193" alt="Descending after" src="https://github.com/user-attachments/assets/5efeff4d-142a-49f1-a712-395ed3666d84" />
+
 
 **MEMORY WINDOW:**
 
@@ -111,6 +113,7 @@ DJNZ R7,LOOP1
 END
 
 **OUTPUT:**
+<img width="1919" height="1199" alt="Ascending Before" src="https://github.com/user-attachments/assets/da47a999-cd05-46fe-8c34-67031bcfc06c" />
 
 **MEMORY WINDOW:** 
 
