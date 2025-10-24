@@ -116,11 +116,15 @@ END
 
 **Before execution:**
 D:0x40H:
-<img width="1919" height="1199" alt="Ascending Before" src="https://github.com/user-attachments/assets/f6ad75d5-af77-4022-a5fb-b4df5b4a3068" />
+<img width="1916" height="1191" alt="Ascending After" src="https://github.com/user-attachments/assets/234b9901-59b4-41d5-b1cf-8bfc39a24b82" />
+
 
 After execution:
 D:0x40H:
-<img width="1916" height="1191" alt="Ascending After" src="https://github.com/user-attachments/assets/9a504f7e-71f7-42ea-8b3a-2bec41ffdfc0" />
+<img width="1919" height="1199" alt="Ascending Before" src="https://github.com/user-attachments/assets/9bd8d408-2f18-4e51-93b3-fec61a750500" />
+
+
+
 
 **Result:**
 
